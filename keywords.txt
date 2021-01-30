@@ -1,0 +1,40 @@
+# Syntax Coloring Map For LTC6802Library
+
+# Datatypes (KEYWORD1)
+LTC6802	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+initSPI	KEYWORD2
+destroySPI	KEYWORD2
+cfgRead	KEYWORD2
+cfgWrite	KEYWORD2
+cfgDebugOutput	KEYWORD2
+cfgGetWDT	KEYWORD2
+cfgGetGPIO1	KEYWORD2
+cfgSetGPIO1	KEYWORD2
+cfgGetGPIO2	KEYWORD2
+cfgSetGPIO2	KEYWORD2
+cfgGetLVLPL KEYWORD2
+cfgSetLVLPL KEYWORD2
+cfgGetCDC KEYWORD2
+cfgSetCDC KEYWORD2
+cfgGetDCC KEYWORD2
+cfgSetDCC KEYWORD2
+cfgGetMCI KEYWORD2
+cfgSetMCI KEYWORD2
+cfgGetVUV KEYWORD2
+cfgSetVUV KEYWORD2
+cfgGetVOV KEYWORD2
+cfgSetVOV KEYWORD2
+temperatureMeasure  KEYWORD2
+temperatureRead KEYWORD2
+cellsMeasure  KEYWORD2
+cellsRead KEYWORD2
+flagsRead KEYWORD2
+
+# Strcutures (KEYWORD3)
+
+# Constants (LITERAL1)
+
+# Unknown (LITERAL2)
+
