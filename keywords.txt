@@ -32,7 +32,7 @@ cellsMeasure  KEYWORD2
 cellsRead KEYWORD2
 flagsRead KEYWORD2
 
-# Strcutures (KEYWORD3)
+# Structures (KEYWORD3)
 
 # Constants (LITERAL1)
 
