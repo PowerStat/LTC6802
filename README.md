@@ -22,3 +22,7 @@ If you would like to contribute to this project please read [How to contribute](
 ## License
 
 This code is licensed under the [Apache License Version 2.0](LICENSE.md).
+
+## Coverity status
+
+![Coverity Scan Build Status](https://scan.coverity.com/projects/26923/badge.svg)
