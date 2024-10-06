@@ -1,2 +1,4 @@
 build/
 LTC6802.h.gch
+coverity.bat
+cov-int/
